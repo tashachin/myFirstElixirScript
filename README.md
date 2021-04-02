@@ -6,3 +6,4 @@
 [freecodecamp](https://freecodecamp.org)
 
 ## Further Reading
+[Elixir Documentation](https://elixir-lang.org/learning.html)
